@@ -1,0 +1,13 @@
+2025-03-30T10:21:08.153Z - IP: ::1 - Method: GET - URL: / New Req Received 
+2025-03-30T10:21:08.263Z - IP: ::1 - Method: GET - URL: /style.css New Req Received 
+2025-03-30T10:21:08.299Z - IP: ::1 - Method: GET - URL: /script.js New Req Received 
+2025-03-30T10:21:16.342Z - IP: ::1 - Method: GET - URL: /style.css New Req Received 
+2025-03-30T10:21:39.157Z - IP: ::1 - Method: GET - URL: / New Req Received 
+2025-03-30T10:21:39.242Z - IP: ::1 - Method: GET - URL: /style.css New Req Received 
+2025-03-30T10:21:39.242Z - IP: ::1 - Method: GET - URL: /script.js New Req Received 
+2025-03-30T10:51:45.346Z - IP: ::1 - Method: GET - URL: / New Req Received 
+2025-03-30T10:51:45.475Z - IP: ::1 - Method: GET - URL: /style.css New Req Received 
+2025-03-30T10:51:45.516Z - IP: ::1 - Method: GET - URL: /script.js New Req Received 
+2025-03-31T17:08:04.288Z - IP: ::1 - Method: GET - URL: / New Req Received 
+2025-03-31T17:08:04.443Z - IP: ::1 - Method: GET - URL: /style.css New Req Received 
+2025-03-31T17:08:04.461Z - IP: ::1 - Method: GET - URL: /script.js New Req Received 

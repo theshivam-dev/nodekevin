@@ -1,0 +1,41 @@
+{
+    "name": "Kevin",
+    "title": "Backend Developer | Cloud & Linux Enthusiast",
+    "skills": [
+      "Backend Development",
+      "Cloud Computing",
+      "Linux",
+      "Networking",
+      "System Design",
+      "JavaScript",
+      "Node.js",
+      "PostgreSQL",
+      "Git",
+      "DevOps"
+    ],
+    "projects": [
+      "Weather Dashboard App",
+      "REST Countries API Project",
+      "URL Shortener",
+      "AI Chatbot using Gemini API"
+    ],
+    "learning": [
+      "Node.js",
+      "Express.js",
+      "AWS S3 Buckets",
+      "RHEL",
+      "System Design"
+    ],
+    "goals": [
+      "Contribute to open source",
+      "Master system design",
+      "Deep dive into Linux",
+      "Become a CTO"
+    ],
+    "setup": {
+      "cpu_cores": 2,
+      "ram": "4GB",
+      "editor": "Vim"
+    }
+  }
+  
